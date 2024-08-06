@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.contatos {
+    height: 80vh;
+}
+
+.contatos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contatos h1 {
+    font-size: 100px;
+}
