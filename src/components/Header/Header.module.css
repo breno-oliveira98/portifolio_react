@@ -2,12 +2,12 @@
     width: 100%;
     height: auto;
     padding: 10px;
-    background-color: gray;
+    background-color: #2f2e41;
     color: white;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    position: fixed;
+    /* position: fixed; */
 }
 
 .header span {

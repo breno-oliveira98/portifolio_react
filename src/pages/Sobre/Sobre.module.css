@@ -4,3 +4,39 @@
     box-sizing: border-box;
 }
 
+.container {
+    width: 100%;
+    padding: 1vw 5vw;
+}
+
+.container span {
+    display: block;
+    font-size: 1.4em;
+    font-weight: 700;
+    color: red;
+    margin-bottom: 15px;
+}
+.container p {
+    font-size: 1.560em;
+
+}
+
+.container em {
+    font-weight: 500;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin: 1vh;
+}
+
+.btn a {
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    text-decoration: none;
+}

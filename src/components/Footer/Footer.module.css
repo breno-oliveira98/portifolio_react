@@ -3,9 +3,9 @@
     height: 50px;
     align-items: center;
     justify-content: center;
-    background-color: gray;
+    background-color: #2f2e41;
     color: white;
     display: flex;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
 }
