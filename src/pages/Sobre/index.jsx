@@ -6,9 +6,11 @@ import styles from './Sobre.module.css'
 function Sobre() {
     return (
         <>
-        <Header/>
-        <h1>Sobre</h1>
-        <Footer/>
+            <Header />
+            <main>
+                <h1>Sobre</h1>
+            </main>
+            <Footer />
         </>
     )
 }
